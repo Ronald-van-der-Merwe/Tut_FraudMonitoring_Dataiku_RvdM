@@ -1,0 +1,7 @@
+echo "# Tut_FraudMonitoring_Dataiku_RvdM" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ronald-van-der-Merwe/Tut_FraudMonitoring_Dataiku_RvdM.git
+git push -u origin main
